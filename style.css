@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+    max-width: 1100px;
+}
+
+.card {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.card-item {
+    margin: 50px;
+}
+
+.shop {
+    margin-top: 40px;
+}
+
+.shop-item {
+    display: flex;
+}
